@@ -4,7 +4,7 @@ This repository contains a Python-based implementation of a **directed, labeled,
 
 ## 📘 Contents
 
-- `notebooks/Ajacency_List.ipynb`: The main notebook demonstrating how to represent and manipulate a graph using adjacency lists
+- `Ajacency_List.ipynb`: The main notebook demonstrating how to represent and manipulate a graph using adjacency lists
 - Example code for adding vertices and edges with labels and weights
 - Simple, readable implementation for learning and experimentation
 
